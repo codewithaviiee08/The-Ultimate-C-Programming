@@ -1,8 +1,8 @@
 #include<stdio.h>
 
 int main(){
-    int harry;
-    int Harry; 
-    int harry_good;
+    int Abhii;
+    int Abhii; 
+    int Abhii_good;
     return 0;
 }
